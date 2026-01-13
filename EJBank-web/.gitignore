@@ -1,0 +1,3 @@
+/target/
+# Ignorer le fichier docker-compose.yml
+docker-compose.yml
